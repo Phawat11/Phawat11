@@ -1,5 +1,6 @@
 ## Greetings 👋
 
+![Picture](/เก็ก.PNG)
 A 2nd Year Medical Student from KMITL. I can cure cancer, Formula 0.5 Driver, CEO of SpaceYX, I own all your houses. From traditional ML, Generative AI to managing AI Agents, I'm interested in how AI could be implemented to improve the future of healthcare. frfr
 
 <br/>
