@@ -1,6 +1,10 @@
 ## Greetings 👋
 
-A 2nd
+A 2nd Year Medical Student from KMITL. I can cure cancer, CEO of SpaceYX, I own all your house. From traditional ML, Generative AI to managing AI Agents, I'm interested in how AI could be implemented to improve the future of healthcare. 
+
+<br/>
+
+(www.linkedin.com/in/phawat-charoenwong-0130b62b4)
 <!--
 **Phawat11/Phawat11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
