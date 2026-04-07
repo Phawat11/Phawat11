@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 | 🔬 **Interests** | [Food, Night Drives,  Bench Watching TV series |
 | 🌱 **Currently Learning** | How to become Normal after studying 2nd Yr Anatomy and Microbiology Class] |
 | 📫 **Reach Me** | [paipai746@gmail.com](mailto:your.email@example.com) |
+
+
+
