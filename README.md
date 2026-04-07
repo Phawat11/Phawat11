@@ -1,6 +1,6 @@
 ## Greetings 👋
 
-A 2nd Year Medical Student from KMITL. I can cure cancer, CEO of SpaceYX, I own all your house. From traditional ML, Generative AI to managing AI Agents, I'm interested in how AI could be implemented to improve the future of healthcare. 
+A 2nd Year Medical Student from KMITL. I can cure cancer, Formula 0.5 Driver, CEO of SpaceYX, I own all your houses. From traditional ML, Generative AI to managing AI Agents, I'm interested in how AI could be implemented to improve the future of healthcare. frfr
 
 <br/>
 
@@ -19,3 +19,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![forthebadge](https://forthebadge.com/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+
+# Tables
+
+| | |
+|---|---|
+| 🎓 **Education** | Medical Student @  |
+| 🔬 **Interests** | [Food, Night Drives,  Bench Watching TV series |
+| 🌱 **Currently Learning** | How to become Normal after studying 2nd Yr Anatomy and Microbiology Class] |
+| 📫 **Reach Me** | [paipai746@gmail.com](mailto:your.email@example.com) |
